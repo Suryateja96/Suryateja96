@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suryateja</h1>
 <h3 align="center">A passionate Business Development Manager in London. However, I'm also an EX-frontend developer in India.</h3>
 
-- 📫 How to reach me **www.linkedln.com/in/suryatejagali**
+- 📫 How to reach me **www.linkedin.com/in/suryatejagali**
 
-- 📄 Know about my experiences [www.linkedln.com/in/suryatejagali](www.linkedln.com/in/suryatejagali)
+- 📄 Know about my experiences [www.linkedin.com/in/suryatejagali](www.linkedin.com/in/suryatejagali)
 
 - ⚡ Fun fact **The concept of "inbox zero" was popularized by productivity expert Merlin Mann. It refers to the practice of keeping your email inbox empty or close to empty by processing emails efficiently. While it may seem like a daunting task, many professionals find that maintaining inbox zero can help reduce stress, increase productivity, and improve overall organization in the workplace.**
 
