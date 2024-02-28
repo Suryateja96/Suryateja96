@@ -3,13 +3,13 @@
 
 - 📫 How to reach me **www.linkedin.com/in/suryatejagali**
 
-- 📄 Know about my experiences [www.linkedin.com/in/suryatejagali](www.linkedin.com/in/suryatejagali)
+- 📄 Know about my experiences [www.linkedin.com/in/suryatejagali](https://www.linkedin.com/in/suryatejagali/)
 
 - ⚡ Fun fact **The concept of "inbox zero" was popularized by productivity expert Merlin Mann. It refers to the practice of keeping your email inbox empty or close to empty by processing emails efficiently. While it may seem like a daunting task, many professionals find that maintaining inbox zero can help reduce stress, increase productivity, and improve overall organization in the workplace.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/suryatejagali"target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryateja.gali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suryatejagali/"target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryateja.gali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/surya_teja96/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya_teja96" height="30" width="40" /></a>
 </p>
 
